@@ -1,0 +1,3 @@
+# 목적: src/s3_upload_sample.py가 Amazon S3 API를 호출할 때 사용하는 AWS SDK.
+# 현재 S3 실습 외 라이브러리는 추가하지 않음.
+boto3>=1.34,<2
