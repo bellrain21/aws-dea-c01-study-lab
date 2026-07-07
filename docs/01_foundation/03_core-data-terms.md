@@ -340,15 +340,15 @@ IAM Policy JSON
 
 # 12. 완료 확인
 
-- [ ] Row, Column, Record, Field, Value, Data type을 구분 가능
-- [ ] 정형·반정형·비정형 데이터의 차이를 설명 가능
-- [ ] Schema와 Metadata의 차이를 설명 가능
-- [ ] Schema-on-write와 Schema-on-read를 구분 가능
-- [ ] Validation과 Profiling을 구분 가능
-- [ ] Retry와 Idempotency가 왜 함께 나오는지 설명 가능
-- [ ] Volume, Velocity, Variety가 각각 무엇인지 설명 가능
-- [ ] Data lake와 Data warehouse의 목적 차이를 설명 가능
-- [ ] 기본 SQL의 SELECT, WHERE, GROUP BY, JOIN의 역할을 설명 가능
+- [x] Row, Column, Record, Field, Value, Data type을 구분 가능
+- [x] 정형·반정형·비정형 데이터의 차이를 설명 가능
+- [x] Schema와 Metadata의 차이를 설명 가능
+- [x] Schema-on-write와 Schema-on-read를 구분 가능
+- [x] Validation과 Profiling을 구분 가능
+- [x] Retry와 Idempotency가 왜 함께 나오는지 설명 가능
+- [x] Volume, Velocity, Variety가 각각 무엇인지 설명 가능
+- [x] Data lake와 Data warehouse의 목적 차이를 설명 가능
+- [x] 기본 SQL의 SELECT, WHERE, GROUP BY, JOIN의 역할을 설명 가능
 
 ---
 
