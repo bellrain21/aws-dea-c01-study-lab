@@ -183,7 +183,6 @@ Billing 접근 제한 유지
 | 9 | `dea-admin` MFA 설정 | 완료 | IAM 사용자 탈취 방지 |
 | 10 | `dea-admin` 콘솔 로그인 검증 | 완료 | Root 봉인 전 실제 사용 가능성 확인 |
 | 11 | Billing IAM 접근 | 제한 유지 | 실습에는 필수 아님. `dea-admin`에서 비용 화면을 열지 않음 |
-| 12 | AWS Budgets | 미확인 | 월 예산 방어선. 별도 생성 확인 필요 |
 
 ---
 
@@ -436,7 +435,6 @@ Billing은 Root로 확인하거나 결제 경보 이메일로 감시 가능
 | ap-northeast-2 | 서울 리전 | 실제 S3, Glue, Athena 실습 리전 |
 | IAM Identity Center | 중앙 사용자 접근 관리 서비스 | 무료 플랜 경고 때문에 보류 |
 | AWS Organizations | 여러 AWS 계정 중앙 관리 서비스 | 지금은 생성하지 않음 |
-| AWS Budgets | 예산과 비용 예측 알림 서비스 | 아직 생성 여부 미확인 |
 
 ---
 
