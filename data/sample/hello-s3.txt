@@ -1,0 +1,3 @@
+service=amazon-s3
+purpose=dea-c01-first-object
+upload-method=aws-console
